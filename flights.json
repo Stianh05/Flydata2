@@ -157,7 +157,17 @@
       "dom_int": "I",
       "schedule_time": "2023-09-22T08:50:00Z",
       "arr_dep": "D",
-      "airport": "",
+      "airport": "Liverpool John Lennon Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841823",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF1007",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T08:55:00Z",
+      "arr_dep": "D",
+      "airport": "Haugesund Airport",
       "check_in": ""
     },
     {
@@ -178,16 +188,6 @@
       "schedule_time": "2023-09-22T08:55:00Z",
       "arr_dep": "D",
       "airport": "Stavanger Airport Sola",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841823",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF1007",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T08:55:00Z",
-      "arr_dep": "D",
-      "airport": "Haugesund Airport",
       "check_in": ""
     },
     {
@@ -301,16 +301,6 @@
       "check_in": ""
     },
     {
-      "uniqueID": "11840590",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK268",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T12:05:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
       "uniqueID": "11841731",
       "airline": "Wider\u00f8e",
       "flight_id": "WF533",
@@ -318,6 +308,16 @@
       "schedule_time": "2023-09-22T12:05:00Z",
       "arr_dep": "D",
       "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840590",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK268",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:05:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
       "check_in": ""
     },
     {
@@ -342,12 +342,12 @@
     },
     {
       "uniqueID": "11840025",
-      "airline": "",
+      "airline": "Private Wings",
       "flight_id": "PWF7711",
       "dom_int": "S",
       "schedule_time": "2023-09-22T12:10:00Z",
       "arr_dep": "D",
-      "airport": "",
+      "airport": "Long Beach Airport",
       "check_in": ""
     },
     {
@@ -391,16 +391,6 @@
       "check_in": ""
     },
     {
-      "uniqueID": "11840786",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK2875",
-      "dom_int": "S",
-      "schedule_time": "2023-09-22T12:35:00Z",
-      "arr_dep": "D",
-      "airport": "Copenhagen Airport",
-      "check_in": ""
-    },
-    {
       "uniqueID": "11840848",
       "airline": "SAS Scandinavian Airlines",
       "flight_id": "SK4167",
@@ -408,6 +398,16 @@
       "schedule_time": "2023-09-22T12:35:00Z",
       "arr_dep": "D",
       "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840786",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK2875",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T12:35:00Z",
+      "arr_dep": "D",
+      "airport": "Copenhagen Airport",
       "check_in": ""
     },
     {
