@@ -1,206 +1,6 @@
 {
   "flights": [
     {
-      "uniqueID": "11840742",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK2861",
-      "dom_int": "S",
-      "schedule_time": "2023-09-22T04:00:00Z",
-      "arr_dep": "D",
-      "airport": "Copenhagen Airport",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11760737",
-      "airline": "KLM Royal Dutch Airlines",
-      "flight_id": "KL1184",
-      "dom_int": "S",
-      "schedule_time": "2023-09-22T04:05:00Z",
-      "arr_dep": "D",
-      "airport": "Amsterdam Airport Schiphol",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840248",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK236",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T04:10:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11908182",
-      "airline": "Lufthansa",
-      "flight_id": "LH877",
-      "dom_int": "S",
-      "schedule_time": "2023-09-22T04:15:00Z",
-      "arr_dep": "D",
-      "airport": "Frankfurt Airport",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841480",
-      "airline": "Norwegian Air Shuttle",
-      "flight_id": "DY601",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T04:35:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840458",
-      "airline": "Norwegian Air Shuttle",
-      "flight_id": "DY164",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:00:00Z",
-      "arr_dep": "D",
-      "airport": "Trondheim Airport V\u00e6rnes",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840512",
-      "airline": "Norwegian Air Shuttle",
-      "flight_id": "DY122",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:00:00Z",
-      "arr_dep": "D",
-      "airport": "Stavanger Airport Sola",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840559",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK238",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:00:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840136",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK4133",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:00:00Z",
-      "arr_dep": "D",
-      "airport": "Stavanger Airport Sola",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841504",
-      "airline": "Norwegian Air Shuttle",
-      "flight_id": "DY605",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:30:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840108",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF1305",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:35:00Z",
-      "arr_dep": "D",
-      "airport": "Bod\u00f8 Airport",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840587",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF392",
-      "dom_int": "I",
-      "schedule_time": "2023-09-22T05:40:00Z",
-      "arr_dep": "D",
-      "airport": "Aberdeen International Airport",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841775",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF562",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:40:00Z",
-      "arr_dep": "D",
-      "airport": "Kristiansund Airport Kvernberget",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841773",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF523",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:45:00Z",
-      "arr_dep": "D",
-      "airport": "Stavanger Airport Sola",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841835",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF622",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T05:50:00Z",
-      "arr_dep": "D",
-      "airport": "Troms\u00f8 Airport",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840784",
-      "airline": "SAS Scandinavian Airlines",
-      "flight_id": "SK4135",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T06:00:00Z",
-      "arr_dep": "D",
-      "airport": "Stavanger Airport Sola",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841500",
-      "airline": "Norwegian Air Shuttle",
-      "flight_id": "DY607",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T06:00:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840476",
-      "airline": "Norwegian Air Shuttle",
-      "flight_id": "DY140",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T06:05:00Z",
-      "arr_dep": "D",
-      "airport": "Stavanger Airport Sola",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11840963",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF100",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T06:05:00Z",
-      "arr_dep": "D",
-      "airport": "Flor\u00f8 Airport",
-      "check_in": ""
-    },
-    {
-      "uniqueID": "11841010",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF144",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T06:35:00Z",
-      "arr_dep": "D",
-      "airport": "Oslo Airport Gardermoen",
-      "check_in": ""
-    },
-    {
       "uniqueID": "11840828",
       "airline": "SAS Scandinavian Airlines",
       "flight_id": "SK4148",
@@ -311,16 +111,6 @@
       "check_in": ""
     },
     {
-      "uniqueID": "11839894",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF587",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T08:45:00Z",
-      "arr_dep": "D",
-      "airport": "Kristiansand Airport Kjevik",
-      "check_in": ""
-    },
-    {
       "uniqueID": "11738666",
       "airline": "KLM Royal Dutch Airlines",
       "flight_id": "KL1186",
@@ -328,6 +118,16 @@
       "schedule_time": "2023-09-22T08:45:00Z",
       "arr_dep": "D",
       "airport": "Amsterdam Airport Schiphol",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11839894",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF587",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T08:45:00Z",
+      "arr_dep": "D",
+      "airport": "Kristiansand Airport Kjevik",
       "check_in": ""
     },
     {
@@ -371,16 +171,6 @@
       "check_in": ""
     },
     {
-      "uniqueID": "11841823",
-      "airline": "Wider\u00f8e",
-      "flight_id": "WF1007",
-      "dom_int": "D",
-      "schedule_time": "2023-09-22T08:55:00Z",
-      "arr_dep": "D",
-      "airport": "Haugesund Airport",
-      "check_in": ""
-    },
-    {
       "uniqueID": "11841751",
       "airline": "Wider\u00f8e",
       "flight_id": "WF531",
@@ -388,6 +178,16 @@
       "schedule_time": "2023-09-22T08:55:00Z",
       "arr_dep": "D",
       "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841823",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF1007",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T08:55:00Z",
+      "arr_dep": "D",
+      "airport": "Haugesund Airport",
       "check_in": ""
     },
     {
@@ -498,6 +298,286 @@
       "schedule_time": "2023-09-22T12:00:00Z",
       "arr_dep": "D",
       "airport": "\u00c5lesund Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840590",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK268",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:05:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841731",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF533",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:05:00Z",
+      "arr_dep": "D",
+      "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841743",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF570",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:05:00Z",
+      "arr_dep": "D",
+      "airport": "Kristiansund Airport Kvernberget",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11839979",
+      "airline": "KLM Royal Dutch Airlines",
+      "flight_id": "KL1188",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T12:10:00Z",
+      "arr_dep": "D",
+      "airport": "Amsterdam Airport Schiphol",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840025",
+      "airline": "",
+      "flight_id": "PWF7711",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T12:10:00Z",
+      "arr_dep": "D",
+      "airport": "",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840793",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF415",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:15:00Z",
+      "arr_dep": "D",
+      "airport": "Sandefjord Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11839900",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF589",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:20:00Z",
+      "arr_dep": "D",
+      "airport": "Kristiansand Airport Kjevik",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841785",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF626",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:25:00Z",
+      "arr_dep": "D",
+      "airport": "Troms\u00f8 Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840143",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF110",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:30:00Z",
+      "arr_dep": "D",
+      "airport": "Flor\u00f8 Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840786",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK2875",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T12:35:00Z",
+      "arr_dep": "D",
+      "airport": "Copenhagen Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840848",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK4167",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:35:00Z",
+      "arr_dep": "D",
+      "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840046",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK4164",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T12:50:00Z",
+      "arr_dep": "D",
+      "airport": "Trondheim Airport V\u00e6rnes",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841522",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY623",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T13:00:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841608",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY842",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T13:10:00Z",
+      "arr_dep": "D",
+      "airport": "Stockholm Arlanda Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841825",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF1011",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T13:15:00Z",
+      "arr_dep": "D",
+      "airport": "Haugesund Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840253",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK272",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T13:25:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840842",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK4163",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T13:45:00Z",
+      "arr_dep": "D",
+      "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840491",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY132",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T13:50:00Z",
+      "arr_dep": "D",
+      "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840105",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK2873",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T14:00:00Z",
+      "arr_dep": "D",
+      "airport": "Copenhagen Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841600",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY968",
+      "dom_int": "S",
+      "schedule_time": "2023-09-22T14:00:00Z",
+      "arr_dep": "D",
+      "airport": "Copenhagen Airport",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840613",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK274",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T14:10:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841512",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY627",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T14:20:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840870",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK4176",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T14:45:00Z",
+      "arr_dep": "D",
+      "airport": "Trondheim Airport V\u00e6rnes",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840453",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY144",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T14:45:00Z",
+      "arr_dep": "D",
+      "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840860",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK4173",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T14:50:00Z",
+      "arr_dep": "D",
+      "airport": "Stavanger Airport Sola",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840623",
+      "airline": "SAS Scandinavian Airlines",
+      "flight_id": "SK278",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T14:55:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11841526",
+      "airline": "Norwegian Air Shuttle",
+      "flight_id": "DY629",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T15:00:00Z",
+      "arr_dep": "D",
+      "airport": "Oslo Airport Gardermoen",
+      "check_in": ""
+    },
+    {
+      "uniqueID": "11840198",
+      "airline": "Wider\u00f8e",
+      "flight_id": "WF1315",
+      "dom_int": "D",
+      "schedule_time": "2023-09-22T15:00:00Z",
+      "arr_dep": "D",
+      "airport": "Bod\u00f8 Airport",
       "check_in": ""
     }
   ]
